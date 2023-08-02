@@ -1,0 +1,8 @@
+F:\Day - 18\TPL.Ex\TPL.Ex\bin\Debug\TPL.Ex.exe.config
+F:\Day - 18\TPL.Ex\TPL.Ex\bin\Debug\TPL.Ex.exe
+F:\Day - 18\TPL.Ex\TPL.Ex\bin\Debug\TPL.Ex.pdb
+F:\Day - 18\TPL.Ex\TPL.Ex\obj\Debug\TPL.Ex.csproj.AssemblyReference.cache
+F:\Day - 18\TPL.Ex\TPL.Ex\obj\Debug\TPL.Ex.csproj.SuggestedBindingRedirects.cache
+F:\Day - 18\TPL.Ex\TPL.Ex\obj\Debug\TPL.Ex.csproj.CoreCompileInputs.cache
+F:\Day - 18\TPL.Ex\TPL.Ex\obj\Debug\TPL.Ex.exe
+F:\Day - 18\TPL.Ex\TPL.Ex\obj\Debug\TPL.Ex.pdb

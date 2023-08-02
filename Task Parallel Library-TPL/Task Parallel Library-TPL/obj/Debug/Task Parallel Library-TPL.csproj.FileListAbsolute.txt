@@ -1,0 +1,8 @@
+F:\Day - 18\Task Parallel Library-TPL\Task Parallel Library-TPL\obj\Debug\Task Parallel Library-TPL.csproj.AssemblyReference.cache
+F:\Day - 18\Task Parallel Library-TPL\Task Parallel Library-TPL\obj\Debug\Task Parallel Library-TPL.csproj.SuggestedBindingRedirects.cache
+F:\Day - 18\Task Parallel Library-TPL\Task Parallel Library-TPL\obj\Debug\Task Parallel Library-TPL.csproj.CoreCompileInputs.cache
+F:\Day - 18\Task Parallel Library-TPL\Task Parallel Library-TPL\bin\Debug\Task Parallel Library-TPL.exe.config
+F:\Day - 18\Task Parallel Library-TPL\Task Parallel Library-TPL\bin\Debug\Task Parallel Library-TPL.exe
+F:\Day - 18\Task Parallel Library-TPL\Task Parallel Library-TPL\bin\Debug\Task Parallel Library-TPL.pdb
+F:\Day - 18\Task Parallel Library-TPL\Task Parallel Library-TPL\obj\Debug\Task Parallel Library-TPL.exe
+F:\Day - 18\Task Parallel Library-TPL\Task Parallel Library-TPL\obj\Debug\Task Parallel Library-TPL.pdb

@@ -1,0 +1,8 @@
+F:\Day - 18\threading\threading\bin\Debug\threading.exe.config
+F:\Day - 18\threading\threading\bin\Debug\threading.exe
+F:\Day - 18\threading\threading\bin\Debug\threading.pdb
+F:\Day - 18\threading\threading\obj\Debug\threading.csproj.AssemblyReference.cache
+F:\Day - 18\threading\threading\obj\Debug\threading.csproj.SuggestedBindingRedirects.cache
+F:\Day - 18\threading\threading\obj\Debug\threading.csproj.CoreCompileInputs.cache
+F:\Day - 18\threading\threading\obj\Debug\threading.exe
+F:\Day - 18\threading\threading\obj\Debug\threading.pdb
